@@ -11,7 +11,7 @@ Example of [@GraphCMS/gatsby-source-graphcms](https://github.com/GraphCMS/gatsby
 
 ## Graph<em>i</em>QL
 
-For an kitchen sink Graph<em>i</em>QL query you can run on Gatsby’s
+For a kitchen sink Graph<em>i</em>QL query you can run on Gatsby’s
 graphql debugger at <http://localhost:8000/___graphql>, try this
 link to preload with `gatsby develop` running:
 
@@ -104,6 +104,7 @@ It puts this in the console:
 * [@rafacm](https://github.com/rafacm) Rafael Cordones
 * [@hmeissner](https://github.com/hmeissner) Hugo Meissner
 * [@rdela](https://github.com/rdela) Ricky de Laveaga
+* [@justjunaid[(https://github.com/justjunaid) Junaid Choudhdary
 
 …[and you](https://github.com/GraphCMS/gatsby-source-graphcms/issues)?
 
